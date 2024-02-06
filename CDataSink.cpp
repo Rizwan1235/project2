@@ -1,0 +1,1 @@
+// Empty, as CDataSink is a pure abstract class
